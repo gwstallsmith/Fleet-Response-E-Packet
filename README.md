@@ -2,7 +2,7 @@
 
 Welcome to the E-Packet website repository! This repository hosts the landing page for the E-Packet project. The E-Packet website is designed to provide information about our project, its features, and how users can get involved.
 
-![E-Packet Website](https://garrettstallsmithfr.github.io/epacket/assets/FRLogo-1.png)
+![E-Packet Website](https://garrettstallsmithfr.github.io/epacket/assets/Logo-1.png)
 
 ## Table of Contents
 
